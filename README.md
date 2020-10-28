@@ -1,2 +1,2 @@
-# EHealthCareSystem_Java
+# EHealthCareSystem
 Java and JavaFx
